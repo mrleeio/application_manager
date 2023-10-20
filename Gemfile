@@ -21,6 +21,7 @@ gem 'turbo-rails'
 gem 'tzinfo-data', platforms: %i[windows jruby]
 
 group :development, :test do
+  gem 'bullet'
   gem 'debug', platforms: %i[mri windows]
   gem 'rubocop'
   gem 'rubocop-capybara'
