@@ -255,10 +255,10 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
-  pg (~> 1.1)
-  puma (>= 5.0)
+  pg
+  puma
   rails (~> 7.1.1)
-  redis (>= 4.0.1)
+  redis
   selenium-webdriver
   sprockets-rails
   stimulus-rails
