@@ -27,6 +27,7 @@ group :development, :test do
   gem 'faker'
   gem 'rubocop'
   gem 'rubocop-capybara'
+  gem 'rubocop-factory_bot'
   gem 'rubocop-minitest'
   gem 'rubocop-performance'
   gem 'rubocop-rails'
