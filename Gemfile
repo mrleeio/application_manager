@@ -40,4 +40,6 @@ end
 group :test do
   gem 'capybara'
   gem 'cuprite'
+  gem 'shoulda-context'
+  gem 'shoulda-matchers'
 end

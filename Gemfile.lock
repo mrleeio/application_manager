@@ -259,6 +259,9 @@ GEM
       rubocop (>= 1.33.0, < 2.0)
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
+    shoulda-context (2.0.0)
+    shoulda-matchers (5.3.0)
+      activesupport (>= 5.2.0)
     sprockets (4.2.1)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
@@ -325,6 +328,8 @@ DEPENDENCIES
   rubocop-minitest
   rubocop-performance
   rubocop-rails
+  shoulda-context
+  shoulda-matchers
   sprockets-rails
   stimulus-rails
   tailwindcss-rails
