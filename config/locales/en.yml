@@ -28,4 +28,14 @@
 #       enabled: "ON"
 
 en:
-  hello: "Hello world"
+  client:
+    notice:
+      create:
+        success: "Client was successfully created."
+        failure: "Client could not be created."
+      update:
+        success: "Client was successfully updated."
+        failure: "Client could not be updated."
+      destroy:
+        success: "Client was successfully destroyed."
+        failure: "Client could not be destroyed."
